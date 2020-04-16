@@ -8,4 +8,10 @@
     top: 0;/*离顶部的距离为0*/
     margin-bottom: 5px;
 }
-
+.top .name{
+	float: left;
+}
+.top .link{
+	font-size: 30px;
+	float: right;
+}
