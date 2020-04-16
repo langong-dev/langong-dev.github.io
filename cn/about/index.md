@@ -4,4 +4,4 @@
 
 主要有```Timer``` ```DataCreater```
 
-![LanGong LOGO](/img/icon.png)
+![LanGong LOGO](/img/LanGongLogoWhiteBackGround.png)
