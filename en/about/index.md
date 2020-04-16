@@ -2,4 +2,4 @@
 
 We mainly developed these programs : ```Timer``` ```DataCreater```
 
-![LanGong LOGO](/img/icon.png)
+![LanGong LOGO](/img/LanGongLogoWhiteBackGround.png)
