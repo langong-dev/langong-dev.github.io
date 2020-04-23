@@ -8,6 +8,10 @@ We are LanGong
 
 We will help you more!
 
+> We like programming and we believe "open source" is a good thing. 
+>
+> We share open source programmes on GitHub.
+
 [ > 简体中文 ](/ch/)  
 
 ---
