@@ -19,6 +19,8 @@
 ## [导航](/ch/guide/)
 
 >
+> [2020 04 Top News](https://langonginc.github.io/Topnew202004)
+>
 > [撞FuFu](/Zff/)
 >
 > [LanFilePackage](/LanFilePackage/)
