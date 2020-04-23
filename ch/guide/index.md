@@ -1,6 +1,6 @@
 # 导览
 
-[ < 首页 ](/)
+[ < 首页 ](/ch/)
 
 [ > 博客 ](https://langonginc.github.io/)
 
