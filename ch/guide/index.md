@@ -1,14 +1,14 @@
-# Guide
+# 导览
 
-[ < Home ](/)
+[ < 首页 ](/)
 
-[ > Blog ](https://langonginc.github.io/)
+[ > 博客 ](https://langonginc.github.io/)
 
 [ > Github ](https://github.com/langong-dev/)
 
 ---
 
-[ > Zff ](/Zff/)
+[ > 撞FuFu ](/Zff/)
 
 [ > Timer ](/Timer/)
 

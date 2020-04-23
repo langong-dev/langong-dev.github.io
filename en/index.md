@@ -1,6 +1,6 @@
 # Home
 
-## We are **LanGong**!
+## We are **LanGong** !
 
 ![Logo](/img/black.png)
 
@@ -33,4 +33,18 @@ We will help you more!
 >
 
 [ > View ](/LanFilePackage/)
+
+---
+
+## Blog
+
+>
+> We have blog on langonginc.
+>
+> The web site is `https://langonginc.github.io/`
+>
+> Welcome to study!
+>
+
+[ > View Blog ](https://langonginc.github.io/)
 
