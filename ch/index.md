@@ -12,13 +12,13 @@
 
 ---
 
-## 导航
+## [导航](/ch/guide/)
 
 [撞FuFu](/Zff/)
 
 [LanFilePackage](/LanFilePackage/)
 
-[ > 更多 ](/en/guide/)  
+[ > 更多 ](/ch/guide/)  
 
 ---
 

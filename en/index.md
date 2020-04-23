@@ -12,7 +12,7 @@ We will help you more!
 
 ---
 
-## Guide
+## [Guide](/en/guide/)
 
 [Zff](/Zff/)
 
