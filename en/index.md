@@ -24,6 +24,16 @@ We will help you more!
 
 ---
 
+## Now on LanGong
+
+### Package of LanFilePackage
+
+> You can View this to Download LanGong Package.
+>
+> [ > View ](/Package)
+
+---
+
 ## We recommend LanFilePackage to you!
 
 >

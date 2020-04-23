@@ -24,6 +24,16 @@
 
 ---
 
+## 在蓝光
+
+### LanFilePackage 的软件包
+
+> 你可以在 Package 中寻找你想要的 LanGong Package 。
+>
+> [ > 查看更多 ](/Package)
+
+---
+
 ## 我们向您推荐 LanFilePackage ！
 
 >
