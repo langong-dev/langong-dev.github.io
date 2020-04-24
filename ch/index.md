@@ -32,6 +32,12 @@
 
 ## 在蓝光
 
+### 蓝光2020 4月月报
+
+>
+> [ > 查看更多 ](https://langonginc.github.io/Topnew202004)
+>
+
 ### LanFilePackage 的软件包
 
 > 你可以在 Package 中寻找你想要的 LanGong Package 。

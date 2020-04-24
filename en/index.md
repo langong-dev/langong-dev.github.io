@@ -30,7 +30,13 @@ We will help you more!
 
 ---
 
-## Now on LanGong
+## Today on LanGong
+
+### 2020 Apr TopNews
+
+>
+> [ > View ](https://langonginc.github.io/Topnew202004)
+>
 
 ### Package of LanFilePackage
 
