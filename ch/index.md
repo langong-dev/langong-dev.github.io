@@ -21,6 +21,8 @@
 >
 > [2020 04 Top News](https://langonginc.github.io/Topnew202004)
 >
+> [Chrome 插件](/ChromeLanGong/)
+>
 > [撞FuFu](/Zff/)
 >
 > [LanFilePackage](/LanFilePackage/)

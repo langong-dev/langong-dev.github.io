@@ -8,6 +8,8 @@
 
 ---
 
+[Chrome Plug](/ChromeLanGong/)
+
 [ > Zff ](/Zff/)
 
 [ > Timer ](/Timer/)

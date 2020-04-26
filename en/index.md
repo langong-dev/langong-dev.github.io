@@ -21,6 +21,8 @@ We will help you more!
 >
 > [2020 04 Top News](https://langonginc.github.io/Topnew202004)
 >
+> [Chrome Plug](/ChromeLanGong/)
+>
 > [Zff](/Zff/)
 >
 > [LanFilePackage](/LanFilePackage/)
