@@ -84,6 +84,4 @@ We will help you more!
 > Welcome to study!
 >
 
-[ > View Blog ](https://langonginc.github.io/)
-
-<a href="" onclick="openwin()">a</a>
+<a onclick="openwin()"> > View Blog </a>
