@@ -1,3 +1,9 @@
+<script LANGUAGE="JavaScript">
+	function openwin() {
+	window.open ("https://langonginc.github.io/", "newwindow", "height=500, width=700, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no")   
+	}
+</script>
+
 # Home
 
 ## We are **LanGong** !
@@ -80,3 +86,4 @@ We will help you more!
 
 [ > View Blog ](https://langonginc.github.io/)
 
+<a href="" onclick="openwin()">a</a>
