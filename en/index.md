@@ -1,6 +1,9 @@
 <script LANGUAGE="JavaScript">
-	function openwin() {
-	window.open ("https://langonginc.github.io/", "newwindow", "height=500, width=700, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no")   
+	function openblog() {
+	window.open ("https://langonginc.github.io/", "Blog", "height=500, width=700, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no")   
+	}
+	function openblogtopnew() {
+	window.open ("https://langonginc.github.io/Topnew202004/", "Blog", "height=500, width=700, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no")   
 	}
 </script>
 
@@ -43,7 +46,7 @@ We will help you more!
 ### 2020 Apr TopNews
 
 >
-> [ > View ](https://langonginc.github.io/Topnew202004)
+> <a onclick="openblogtopnew()"> > View </a>
 >
 
 ### LanGong-Zff@5.3.1
@@ -84,4 +87,4 @@ We will help you more!
 > Welcome to study!
 >
 
-<a onclick="openwin()"> > View Blog </a>
+<a onclick="openblog()"> > View Blog </a>

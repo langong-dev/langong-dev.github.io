@@ -1,8 +1,17 @@
+<script LANGUAGE="JavaScript">
+	function openblog() {
+	window.open ("https://langonginc.github.io/", "Blog", "height=500, width=700, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no")   
+	}
+	function openblogtopnew() {
+	window.open ("https://langonginc.github.io/Topnew202004/", "Blog", "height=500, width=700, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no")   
+	}
+</script>
+
 # 导览
 
 [ < 首页 ](/ch/)
 
-[ > 博客 ](https://langonginc.github.io/)
+<a onclick="openblog()"> > 博客 </a>
 
 [ > Github ](https://github.com/langong-dev/)
 

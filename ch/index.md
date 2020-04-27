@@ -1,3 +1,12 @@
+<script LANGUAGE="JavaScript">
+	function openblog() {
+	window.open ("https://langonginc.github.io/", "Blog", "height=500, width=700, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no")   
+	}
+	function openblogtopnew() {
+	window.open ("https://langonginc.github.io/Topnew202004/", "Blog", "height=500, width=700, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no")   
+	}
+</script>
+
 # 首页
 
 ## 我们是 **LanGong** !
@@ -37,7 +46,7 @@
 ### 蓝光2020 4月月报
 
 >
-> [ > 查看更多 ](https://langonginc.github.io/Topnew202004)
+> <a onclick="openblogtopnew()"> > 查看更多 </a>
 >
 
 ### LanGong-Zff@5.3.1
@@ -78,5 +87,5 @@
 > 欢迎前来捧场！
 >
 
-[ > 查看博客 ](https://langonginc.github.io/)
+<a onclick="openblogtopnew()"> > 查看博客 </a>
 
