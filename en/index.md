@@ -28,7 +28,7 @@ We will help you more!
 ## [Guide](/en/guide/)
 
 >
-> [2020 04 Top News](https://langonginc.github.io/Topnew202004)
+> <a onclick="openblogtopnew()">2020 04 Top News</a>
 >
 > [Chrome Plug](/ChromeLanGong/)
 >

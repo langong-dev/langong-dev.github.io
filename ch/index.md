@@ -28,7 +28,7 @@
 ## [导航](/ch/guide/)
 
 >
-> [2020 04 Top News](https://langonginc.github.io/Topnew202004)
+> <a onclick="openblogtopnew()">2020 04 Top News</a>
 >
 > [Chrome 插件](/ChromeLanGong/)
 >
@@ -87,5 +87,5 @@
 > 欢迎前来捧场！
 >
 
-<a onclick="openblogtopnew()"> > 查看博客 </a>
+<a onclick="openblog()"> > 查看博客 </a>
 
