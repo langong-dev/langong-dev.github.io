@@ -8,7 +8,7 @@
 
 ---
 
-[Chrome Plug](/ChromeLanGong/)
+[ > Chrome Plug](/ChromeLanGong/)
 
 [ > Zff ](/Zff/)
 

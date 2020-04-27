@@ -8,7 +8,7 @@
 
 ---
 
-[Chrome 插件](/ChromeLanGong/)
+[ > Chrome 插件](/ChromeLanGong/)
 
 [ > 撞FuFu ](/Zff/)
 
