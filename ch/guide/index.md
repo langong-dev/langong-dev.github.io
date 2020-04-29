@@ -17,7 +17,9 @@
 
 ---
 
-[ > Chrome 插件](/ChromeLanGong/)
+[ > LanGong 支持 ](/Support/)
+
+[ > Chrome 插件 ](/ChromeLanGong/)
 
 [ > 撞FuFu ](/Zff/)
 

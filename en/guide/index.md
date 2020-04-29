@@ -17,6 +17,8 @@
 
 ---
 
+[ > LanGongSupport ](/Support/)
+
 [ > Chrome Plug](/ChromeLanGong/)
 
 [ > Zff ](/Zff/)
