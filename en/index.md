@@ -30,7 +30,7 @@ We will help you more!
 >
 > <a onclick="openblogtopnew()">2020 04 Top News</a>
 >
-> [Chrome Plug](/ChromeLanGong/)
+> [LanGong Support](/Support/)
 >
 > [Zff](/Zff/)
 >
