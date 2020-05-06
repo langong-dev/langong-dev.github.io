@@ -28,6 +28,8 @@ We will help you more!
 ## [Guide](/en/guide/)
 
 >
+> [NoteText](/NoteText/)
+>
 > <a onclick="openblogtopnew()">2020 04 Top News</a>
 >
 > [LanGong Support](/Support/)

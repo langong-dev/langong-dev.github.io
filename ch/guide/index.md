@@ -17,6 +17,8 @@
 
 ---
 
+[ > NoteText ](/NoteText/)
+
 [ > LanGong 支持 ](/Support/)
 
 [ > 撞FuFu ](/Zff/)

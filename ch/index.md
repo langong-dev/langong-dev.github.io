@@ -28,6 +28,8 @@
 ## [导航](/ch/guide/)
 
 >
+> [NoteText](/NoteText/)
+>
 > <a onclick="openblogtopnew()">2020 04 Top News</a>
 >
 > [LanGong 支持](/Support/)

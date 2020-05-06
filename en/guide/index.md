@@ -17,6 +17,8 @@
 
 ---
 
+[ > NoteText ](/NoteText/)
+
 [ > LanGongSupport ](/Support/)
 
 [ > Zff ](/Zff/)
