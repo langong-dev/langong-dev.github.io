@@ -17,6 +17,8 @@
 
 ---
 
+[ > NoteTextOnline ](/NoteTextOnline/)
+
 [ > NoteText ](/NoteText/)
 
 [ > LanGong 支持 ](/Support/)

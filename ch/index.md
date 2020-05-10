@@ -28,7 +28,7 @@
 ## [导航](/ch/guide/)
 
 >
-> [NoteText](/NoteText/)
+> [NoteTextOnline](/NoteTextOnline/)
 >
 > <a onclick="openblogtopnew()">2020 04 Top News</a>
 >
