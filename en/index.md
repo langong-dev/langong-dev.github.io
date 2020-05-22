@@ -59,6 +59,12 @@ We will help you more!
 
 ---
 
+## Do you find some errors?
+
+> [ > Click to tell us ](/fk)
+
+---
+
 ## We recommend LanFilePackage to you!
 
 >
