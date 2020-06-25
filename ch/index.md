@@ -40,7 +40,7 @@
 >
 > [LanGong 支持](/Support/)
 >
-> [撞FuFu](/Zff/)
+> [撞FuFu](/Zff)
 >
 > [LanFilePackage](/LanFilePackage/)
 >
