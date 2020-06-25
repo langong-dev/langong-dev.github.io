@@ -42,7 +42,7 @@ We will help you more!
 >
 > [LanGong Support](/Support/)
 >
-> [Zff](/Zff/)
+> [Zff](/Zff)
 >
 > [LanFilePackage](/LanFilePackage/)
 >
