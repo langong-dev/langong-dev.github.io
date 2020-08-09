@@ -31,6 +31,12 @@ We will help you more!
 >
 > [ > Visit ](https://ohzff.github.io)
 
+## E Markdown
+
+> E Markdown with KaTeX and PrismJS
+> 
+> [ > Visit ](/emarkdown/)
+
 ---
 
 ## [Guide](/en/guide/)
@@ -42,7 +48,7 @@ We will help you more!
 >
 > [LanGong Support](/Support/)
 >
-> [Zff](/Zff)
+> [Zff](https://ohzff.github.io)
 >
 > [LanFilePackage](/LanFilePackage/)
 >
@@ -71,30 +77,3 @@ We will help you more!
 
 > [ > Click to tell us ](/fk)
 
----
-
-## We recommend LanFilePackage to you!
-
->
-> This is made by LanGong-DEV team.
->
-> This could help you to download Packages on Git.
->
-> You can download LanGongSoftware too.
->
-
-[ > View ](/LanFilePackage/)
-
----
-
-## Blog
-
->
-> We have blog on langonginc.
->
-> The web site is `https://langonginc.github.io/`
->
-> Welcome to study!
->
-
-<a onclick="openblog()"> > View Blog </a>
