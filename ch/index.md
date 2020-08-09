@@ -40,7 +40,7 @@
 >
 > [LanGong 支持](/Support/)
 >
-> [撞FuFu](/Zff)
+> [撞FuFu](https://ohzff.github.io)
 >
 > [LanFilePackage](/LanFilePackage/)
 >
@@ -68,32 +68,3 @@
 ## 你发现什么问题了吗？
 
 > [点击前往反馈](/fk)
-
----
-
-## 我们向您推荐 LanFilePackage ！
-
->
-> LanFilePackage是由蓝光开发的包管理系统。
->
-> 他能帮助你下载网络中的Git。
->
-> 你当然可以通过他下载我们蓝光的软件包。
->
-
-[ > 查看更多 ](/LanFilePackage/)
-
----
-
-## 博客
-
->
-> 我们的博客是在 LanGongINC 上。
->
-> 网址是 `https://langonginc.github.io/` 。
->
-> 欢迎前来捧场！
->
-
-<a onclick="openblog()"> > 查看博客 </a>
-
